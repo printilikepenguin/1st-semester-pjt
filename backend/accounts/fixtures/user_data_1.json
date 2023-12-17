@@ -1,0 +1,161 @@
+[{
+	"model": "products.depositproductlist",
+	"pk": 1,
+	"fields": {
+		"like_users": [
+			2
+		]
+	}
+},{
+	"model": "products.depositproductlist",
+	"pk": 2,
+	"fields": {
+		"like_users": [
+			3
+		]
+	}
+},{
+	"model": "products.depositproductlist",
+	"pk": 3,
+	"fields": {
+		"like_users": [
+			7
+		]
+	}
+},{
+	"model": "products.depositproductlist",
+	"pk": 4,
+	"fields": {
+		"like_users": [
+			2
+		]
+	}
+},{
+	"model": "products.depositproductlist",
+	"pk": 5,
+	"fields": {
+		"like_users": [
+			9
+		]
+	}
+},{
+	"model": "products.depositproductlist",
+	"pk": 6,
+	"fields": {
+		"like_users": [
+			5
+		]
+	}
+},{
+	"model": "products.depositproductlist",
+	"pk": 7,
+	"fields": {
+		"like_users": [
+			9
+		]
+	}
+},{
+	"model": "products.depositproductlist",
+	"pk": 8,
+	"fields": {
+		"like_users": [
+			9
+		]
+	}
+},{
+	"model": "products.depositproductlist",
+	"pk": 9,
+	"fields": {
+		"like_users": [
+			3
+		]
+	}
+},{
+	"model": "products.depositproductlist",
+	"pk": 10,
+	"fields": {
+		"like_users": [
+			2
+		]
+	}
+},{
+	"model": "products.depositproductlist",
+	"pk": 11,
+	"fields": {
+		"like_users": [
+			1
+		]
+	}
+},{
+	"model": "products.depositproductlist",
+	"pk": 12,
+	"fields": {
+		"like_users": [
+			7
+		]
+	}
+},{
+	"model": "products.depositproductlist",
+	"pk": 13,
+	"fields": {
+		"like_users": [
+			9
+		]
+	}
+},{
+	"model": "products.depositproductlist",
+	"pk": 14,
+	"fields": {
+		"like_users": [
+			8
+		]
+	}
+},{
+	"model": "products.depositproductlist",
+	"pk": 15,
+	"fields": {
+		"like_users": [
+			3
+		]
+	}
+},{
+	"model": "products.depositproductlist",
+	"pk": 16,
+	"fields": {
+		"like_users": [
+			8
+		]
+	}
+},{
+	"model": "products.depositproductlist",
+	"pk": 17,
+	"fields": {
+		"like_users": [
+			1
+		]
+	}
+},{
+	"model": "products.depositproductlist",
+	"pk": 18,
+	"fields": {
+		"like_users": [
+			2
+		]
+	}
+},{
+	"model": "products.depositproductlist",
+	"pk": 19,
+	"fields": {
+		"like_users": [
+			8
+		]
+	}
+},{
+	"model": "products.depositproductlist",
+	"pk": 20,
+	"fields": {
+		"like_users": [
+			9
+		]
+	}
+}]

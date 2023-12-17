@@ -1,0 +1,141 @@
+[{
+	"model": "accounts.User",
+	"pk": 1,
+	"fields": {
+		"username": "0이름",
+		"age": 51,
+		"money": 7500000,
+		"salary": 1223000000,
+		"password": "1234",
+		"nickname": null,
+		"is_active": true,
+		"is_staff": false,
+		"is_superuser": false
+	}
+},{
+	"model": "accounts.User",
+	"pk": 2,
+	"fields": {
+		"username": "1이름",
+		"age": 86,
+		"money": 97700000,
+		"salary": 243000000,
+		"password": "1234",
+		"nickname": null,
+		"is_active": true,
+		"is_staff": false,
+		"is_superuser": false
+	}
+},{
+	"model": "accounts.User",
+	"pk": 3,
+	"fields": {
+		"username": "2이름",
+		"age": 90,
+		"money": 21600000,
+		"salary": 30000000,
+		"password": "1234",
+		"nickname": null,
+		"is_active": true,
+		"is_staff": false,
+		"is_superuser": false
+	}
+},{
+	"model": "accounts.User",
+	"pk": 4,
+	"fields": {
+		"username": "3이름",
+		"age": 82,
+		"money": 5200000,
+		"salary": 1320000000,
+		"password": "1234",
+		"nickname": null,
+		"is_active": true,
+		"is_staff": false,
+		"is_superuser": false
+	}
+},{
+	"model": "accounts.User",
+	"pk": 5,
+	"fields": {
+		"username": "4이름",
+		"age": 94,
+		"money": 98900000,
+		"salary": 680000000,
+		"password": "1234",
+		"nickname": null,
+		"is_active": true,
+		"is_staff": false,
+		"is_superuser": false
+	}
+},{
+	"model": "accounts.User",
+	"pk": 6,
+	"fields": {
+		"username": "5이름",
+		"age": 34,
+		"money": 33500000,
+		"salary": 990000000,
+		"password": "1234",
+		"nickname": null,
+		"is_active": true,
+		"is_staff": false,
+		"is_superuser": false
+	}
+},{
+	"model": "accounts.User",
+	"pk": 7,
+	"fields": {
+		"username": "6이름",
+		"age": 46,
+		"money": 87500000,
+		"salary": 119000000,
+		"password": "1234",
+		"nickname": null,
+		"is_active": true,
+		"is_staff": false,
+		"is_superuser": false
+	}
+},{
+	"model": "accounts.User",
+	"pk": 8,
+	"fields": {
+		"username": "7이름",
+		"age": 15,
+		"money": 81700000,
+		"salary": 440000000,
+		"password": "1234",
+		"nickname": null,
+		"is_active": true,
+		"is_staff": false,
+		"is_superuser": false
+	}
+},{
+	"model": "accounts.User",
+	"pk": 9,
+	"fields": {
+		"username": "8이름",
+		"age": 90,
+		"money": 72500000,
+		"salary": 1015000000,
+		"password": "1234",
+		"nickname": null,
+		"is_active": true,
+		"is_staff": false,
+		"is_superuser": false
+	}
+},{
+	"model": "accounts.User",
+	"pk": 10,
+	"fields": {
+		"username": "9이름",
+		"age": 12,
+		"money": 80000000,
+		"salary": 496000000,
+		"password": "1234",
+		"nickname": null,
+		"is_active": true,
+		"is_staff": false,
+		"is_superuser": false
+	}
+}]
